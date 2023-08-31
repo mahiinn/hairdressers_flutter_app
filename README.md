@@ -1,7 +1,8 @@
 # hairdressers_flutter_app
 
 A new Flutter project created with FlutLab - https://flutlab.io
-
+# Link de la explicación:
+[Explicación del código del primer parcial del consumo de una api de peluquerías](https://www.youtube.com/watch?v=2Ccdy0eV8t8)
 ## Getting Started
 
 Apreciado Estudiante el presente parcial que corresponde al primer corte 
@@ -10,6 +11,9 @@ acceder a información relacionada con peluquerías y salones de belleza a trav�
 del endpoint proporcionado por datos.gov.co. Debes aplicar los conceptos vistos 
 en la formación, incluyendo la creación de modelos, proveedores, widgets, pantallas 
 y más.
+
+## Mockup
+![alt text](mockup.png)
 
 ## Instrucciones:
 
